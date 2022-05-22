@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.html",
+  "/StaticProps": "pages/StaticProps.js",
+  "/ServerSide": "pages/ServerSide.js",
+  "/StaticPaths/[id]": "pages/StaticPaths/[id].js",
+  "/_document": "pages/_document.js"
+}
